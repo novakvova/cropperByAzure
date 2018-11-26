@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCropImage", "WebCropImage\WebCropImage.csproj", "{1595EE4F-9DCD-4BCD-9830-2949A352785E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1595EE4F-9DCD-4BCD-9830-2949A352785E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1595EE4F-9DCD-4BCD-9830-2949A352785E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1595EE4F-9DCD-4BCD-9830-2949A352785E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1595EE4F-9DCD-4BCD-9830-2949A352785E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF5F3E81-1204-40FA-8BEF-61D975C59D86}
+	EndGlobalSection
+EndGlobal
